@@ -232,7 +232,7 @@ export default function CoursePlatform() {
               >
                 <div className="rounded-lg border border-valour-gray overflow-hidden mb-4">
                   <Image
-                    src="/placeholder.svg?height=500&width=800"
+                    src="/trading-course-thumbnail.svg?height=500&width=800"
                     alt="Trading chart"
                     width={800}
                     height={500}
