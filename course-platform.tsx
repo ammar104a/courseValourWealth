@@ -250,7 +250,7 @@ export default function CoursePlatform() {
                         id: "beginner-video-2",
                         title: "Understanding Risk & Return",
                         duration: "15:20",
-                        thumbnail: "/placeholder.svg?height=200&width=350",
+                        thumbnail: "/beginner2.svg?height=200&width=350",
                         videoUrl:
                           "https://a5f9ee7b3883a9c77c46adca93821bec.r2.cloudflarestorage.com/videos/beginner-risk-return.mp4",
                       },
@@ -258,7 +258,7 @@ export default function CoursePlatform() {
                         id: "beginner-video-3",
                         title: "Building Your First Portfolio",
                         duration: "18:10",
-                        thumbnail: "/placeholder.svg?height=200&width=350",
+                        thumbnail: "/beginner3.svg?height=200&width=350",
                         videoUrl:
                           "https://a5f9ee7b3883a9c77c46adca93821bec.r2.cloudflarestorage.com/videos/beginner-portfolio.mp4",
                       },
