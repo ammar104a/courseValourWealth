@@ -23,7 +23,7 @@ export const courseVideos: VideoMetadata[] = [
     title: "Introduction to Financial Markets",
     description: "Learn the basics of financial markets and how they function",
     duration: "08:56",
-    thumbnail: "/placeholder.svg?height=200&width=350",
+    thumbnail: "/beginner1.svg?height=200&width=350",
     videoUrl: "https://pub-d2ff83079c6c49b8ab7c726284b83a97.r2.dev/beginner-intro.mp4",
     courseLevel: "beginner",
     moduleId: "module-1",
